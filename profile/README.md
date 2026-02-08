@@ -1,7 +1,7 @@
 # We make cool stuff
 
 - [EclairBOT](https://github.com/eclairbakery/EclairBOT)
-- [Casino](https://github.com/eclairbakery/EclairBOT) (alpha)
+- [Casino](https://github.com/eclairbakery/Casino) (alpha)
 
 And we make experiments:
 
