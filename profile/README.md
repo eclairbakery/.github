@@ -5,5 +5,5 @@
 
 And we make experiments:
 
-- [EclairBOT in Rust)](https://github.com/eclairbakery/EclairBot-rs)
-- [EclairBOT in C)](https://github.com/eclairbakery/EclairBot-C)
+- [EclairBOT in Rust](https://github.com/eclairbakery/EclairBot-rs)
+- [EclairBOT in C](https://github.com/eclairbakery/EclairBot-C)
