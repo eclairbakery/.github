@@ -7,3 +7,4 @@ And we make experiments:
 
 - [EclairBOT in Rust](https://github.com/eclairbakery/EclairBot-rs)
 - [EclairBOT in C](https://github.com/eclairbakery/EclairBot-C)
+- [Hubix Blocker](https://github.com/eclairbakery/TheHubixBlocker)
